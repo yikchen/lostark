@@ -4,7 +4,7 @@ function Hell(){
             <h2> Hell Raiding</h2>
             <div className="record">
                 <div className="video-container">
-                    <video src = "videos/MyHellClownClear.MP4" controls></video>
+                    <iframe src = "https://www.youtube.com/embed/oxDwNGDVo0Y" frameborder='0'allow='autoplay; encrypted-media' title = "HELLCLOWN CLEAR" allowFullScreen></iframe>
                 </div>
                 <div className= "text-section">
                     <h4>First <strong>HELLCLOWN CLEAR</strong> - 8/29/2023</h4>
@@ -16,7 +16,7 @@ function Hell(){
             </div>
             <div className="record">
                 <div className="video-container">
-                    <video src = "videos/MyFirstG2Clear.MP4" controls></video>
+                    <iframe src = "https://www.youtube.com/embed/AXyq0G2tgY8" frameborder='0'allow='autoplay; encrypted-media' title = "First G2 Clear for me" allowFullScreen></iframe>
                 </div>
                 <div className= "text-section">
                     <h4>First G2 Clear for me - 8/28/2023</h4>
@@ -25,11 +25,11 @@ function Hell(){
             </div>
             <div className="record">
                 <div className="video-container">
-                    <video src = "videos/Agents.MP4" controls></video>
+                    <iframe src = "https://www.youtube.com/embed/_CFAY_LIfmk" frameborder='0'allow='autoplay; encrypted-media' title = "Some G2 clown for fun" allowFullScreen></iframe>
                 </div>
                 <div className= "text-section">
                     <h4>Some G2 clown for fun - 8/28/2023</h4>
-                    <p>Playing my aero in hellclown. Doing okay, but there are some agent in the team.</p>
+                    <p>Playing my aero in hellclown. Doing okay, but there are some agents in the team.</p>
                 </div>
             </div>
         </div>
@@ -38,3 +38,5 @@ function Hell(){
 }
 
 export default Hell;
+
+

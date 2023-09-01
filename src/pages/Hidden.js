@@ -4,7 +4,7 @@ function Hidden(){
             <h2> Hidden</h2>
             <div className="record">
                 <div className="video-container">
-                    <video src = "videos/HiddenMaze.MP4" controls></video>
+                    <iframe src = "https://www.youtube.com/embed/obIlnyPZGeA" frameborder='0'allow='autoplay; encrypted-media' title = "Hidden Maze pratice" allowFullScreen></iframe>
                 </div>
                 <div className= "text-section">
                     <h4>Hidden Maze pratice - 8/23/2023</h4>
@@ -13,7 +13,7 @@ function Hidden(){
             </div>
             <div className="record">
                 <div className="video-container">
-                    <video src = "videos/Where_my_star.MP4" controls></video>
+                    <iframe src = "https://www.youtube.com/embed/rUZuvdd_nag" frameborder='0'allow='autoplay; encrypted-media' title = "where did my star go" allowFullScreen></iframe>
                 </div>
                 <div className= "text-section">
                     <h4>Huh,where did my star go 0.o - 08/04/2023</h4>
