@@ -4,6 +4,15 @@ function Hell(){
             <h2> Hell Raiding</h2>
             <div className="record">
                 <div className="video-container">
+                    <iframe src = "https://www.youtube.com/embed/DP4Swu6wJw4" frameborder='0'allow='autoplay; encrypted-media' title = "Invisible clown" allowFullScreen></iframe>
+                </div>
+                <div className= "text-section">
+                    <h4>Invisible clown? - 9/9/2023</h4>
+                    <p>Just come out of mario 1 and the clown is invisible 0.o</p>
+                </div>
+            </div>
+            <div className="record">
+                <div className="video-container">
                     <iframe src = "https://www.youtube.com/embed/oxDwNGDVo0Y" frameborder='0'allow='autoplay; encrypted-media' title = "HELLCLOWN CLEAR" allowFullScreen></iframe>
                 </div>
                 <div className= "text-section">
